@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\Shell\Send to cuckoo sandbox for analysis\Command] 
+@="\"C:\\Program Files\\cuckoo-sender\\cuckoo-sender.cmd\" \"%1\""
