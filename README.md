@@ -1,5 +1,5 @@
 # Cuckoo-sender
-Send file for analysis in Cuckoo Sandbox from context menu
+Send files for analysis in Cuckoo Sandbox from context menu
 
 ## Installation
 Copy cuckoo-sender to %PROGRAMFILES% directory
