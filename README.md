@@ -4,7 +4,7 @@ Send files for analysis in Cuckoo Sandbox from context menu
 ## Installation
 Copy cuckoo-sender to %PROGRAMFILES% directory
 
-Edit config.ini: set param REST_URL to your cuckoo api url
+Edit config.ini: set params
 
 - #### installation "Send to" 
 Add shortcut to cuckoo-send.cmd and move it to directory:
